@@ -13,7 +13,7 @@ nav ul {
   list-style: none;
 }
 
-ul .horizontal -> li {
+ul .horizontal > li {
   display: inline;
   margin-right: 20px;
 }
